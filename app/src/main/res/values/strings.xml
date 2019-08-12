@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ClothStore</string>
+    <string name="title_home">Home</string>
+    <string name="title_wishlist">Wishlist</string>
+    <string name="title_shoppingCart">Cart</string>
+    <string name="title_catalogue">catalogue</string>
+    <string name="title_activity_catalogue">CatalogueActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_wishlist">WishlistActivity</string>
+    <string name="title_activity_cart">CartActivity</string>
+</resources>
